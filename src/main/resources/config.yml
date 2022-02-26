@@ -1,0 +1,35 @@
+# Welcome to the SocialsPlugin config.yml
+# You can edit values here for the plugin
+
+######################################
+# Plugin config
+######################################
+
+
+
+######################################
+# Enabled Modules
+######################################
+
+# Please make sure all the values below are either true or false!!!
+discord: true
+youtube: true
+twitter: true
+twitch: false
+instagram: false
+reddit: false
+######################################
+# Language
+######################################
+discordmsg: 'Change value in config.yml' # sets message for link on /discord
+youtubemsg: 'Change value in config.yml' # sets message for link on /youtube
+twittermsg: 'Change value in config.yml' # sets message for link on /twitter
+twitchmsg: 'Change value in config.yml' # sets message for link on /twitch
+instagrammsg: 'Change value in config.yml' # sets message for link on /instagram
+redditmsg: 'Change value in config.yml' # sets message for link on /reddit
+
+reloadmsg: 'SocialsPlugin reloading' # sets message for /socialreload
+disabledmsg: 'This command is disabled' # sets message for if a command is disabled (does not support color codes YET, is default red)
+######################################
+
+# Voidem#2269 On Discord

@@ -1,0 +1,36 @@
+name: SocialsPlugin
+version: ${project.version}
+main: com.voidemnetwork.socialsplugin.SocialsPlugin
+api-version: 1.16
+authors: [ VoidemLIVE ]
+description: Promote your socials on your minecraft server
+website: https://twitch.tv/voidemlive
+commands:
+  discord:
+    description: Sends your discord link
+    permission: socials.discord
+    permission-message: No permission
+  twitter:
+    description: Sends your twitter link
+    permission: socials.twitter
+    permission-message: No permission
+  youtube:
+    description: Sends your youtube link
+    permission: socials.youtube
+    permission-message: No permission
+  instagram:
+    description: Sends your instagram link
+    permission: socials.instagram
+    permission-message: No permission
+  twitch:
+    description: Sends your twitch link
+    permission: socials.twitch
+    permission-message: No permission
+  reddit:
+    description: Sends your reddit link
+    permission: socials.reddit
+    permission-message: No permission
+  socialreload:
+    description: reload command
+    permission: socials.reload
+    permission-message: No permission
