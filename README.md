@@ -1,3 +1,5 @@
+# ⚠️PROJECT DISCONTINUED⚠️
+
 Building
 --------
 This project was made for Intellij Idea with Maven. I will not be giving any advanced support for building this plugin. If you have previous experience with Intellij & Maven, you should be fine.
