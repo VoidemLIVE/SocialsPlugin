@@ -12,5 +12,5 @@ Knowledge of Bstats is required if you are wishing to add Bstats to this plugin.
 
 Support
 --------
-Support for building this will be very limited plugin but if you have any issues concering any of the code please reach out to me in my Discord server:
+Project discontinued, support may not be provided
 https://discord.gg/TDUqVd2UNd
