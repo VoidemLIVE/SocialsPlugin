@@ -12,5 +12,7 @@ Knowledge of Bstats is required if you are wishing to add Bstats to this plugin.
 
 Support
 --------
-Project discontinued, support may not be provided
+Project discontinued, support will not be provided
 https://discord.gg/TDUqVd2UNd
+
+Project archived: 18/09/2023
